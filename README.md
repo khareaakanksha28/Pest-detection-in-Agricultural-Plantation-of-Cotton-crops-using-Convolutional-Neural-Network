@@ -1,0 +1,1 @@
+# Pest-detection-in-Agricultural-Plantation-of-Cotton-crops-using-Convolutional-Neural-Network
